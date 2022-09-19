@@ -1,5 +1,3 @@
-package WarGame;
-
 /**
  * @author Hannah
  * 

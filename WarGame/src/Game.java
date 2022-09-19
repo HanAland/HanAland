@@ -1,7 +1,3 @@
-package WarGame;
-
-import java.util.ArrayList;
-
 /**
  * @author hannah
  *

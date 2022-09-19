@@ -1,4 +1,3 @@
-package WarGame;
 import java.util.ArrayList;
 import java.util.List;
 /**

@@ -1,6 +1,3 @@
-package WarGame;
-import java.util.Objects;
-
 /**
  *
  * @author hannah
