@@ -7,7 +7,7 @@ import java.util.Random;
  * Dealer class that extends the Player
  * and plays against the Player.
  *
- * @author Rzez, Marcelo, Uzair, Hannah April 2022
+ * @author Hannah
  */
 public class Dealer extends Player {
 

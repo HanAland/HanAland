@@ -6,7 +6,7 @@ import Blackjack.CardsAndDecks.*;
  * Player class with all available functions
  * to money, name, hand, and hitting and standing.
  *
- * @author Rzez, Marcelo, Uzair, Hannah April 2022
+ * @author Hannah
  */
 public class Player {
     protected int money;
