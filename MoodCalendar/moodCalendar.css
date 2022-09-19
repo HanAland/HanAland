@@ -1,0 +1,123 @@
+.mediaViewInfo {
+	--web-view-name: first page;
+	--web-view-id: first_page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: first_page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#first_page {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: first page;
+	--web-view-id: first_page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#n_c48ec495e0d18b761218b2be0627 {
+	position: absolute;
+	width: 428px;
+	height: 446px;
+	left: 0px;
+	top: 345px;
+	overflow: visible;
+}
+#Get_Started {
+	left: 145px;
+	top: 829px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(254,254,254,1);
+}
+#n_c48ec495e0d18b761218b2be0627_b {
+	position: absolute;
+	width: 937.626px;
+	height: 703px;
+	left: -277.626px;
+	top: 790px;
+	overflow: visible;
+}
+#n_c48ec495e0d18b761218b2be0627_ca {
+	position: absolute;
+	width: 1464px;
+	height: 1522.156px;
+	left: -518px;
+	top: -1175.156px;
+	overflow: visible;
+}
+#CARVE_OUT__AND_CLAIM__THE_TIME {
+	left: 43px;
+	top: 45px;
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(254,254,254,1);
+}
+#Rectangle_1 {
+	fill: rgba(0,174,251,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 52px;
+	left: 98px;
+	top: 768px;
+}
+#Get_Started_b {
+	left: 147px;
+	top: 782px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: logo_.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(254,254,254,1);
+}
