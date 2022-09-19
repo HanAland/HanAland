@@ -1,13 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package WarGame;
 
 /**
  *
  * @author hannah
  */
-public class GameRunner {
+
+public class GameRunner 
+{
     
+   
+    public static void main(String[] args) 
+    {
+        WarGame game = new WarGame("War Game");
+        game.play();
+    }
 }
