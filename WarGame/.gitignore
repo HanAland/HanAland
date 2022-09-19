@@ -10,5 +10,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+echo .DS_Store >> ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
 
 # End of https://www.toptal.com/developers/gitignore/api/netbeans
