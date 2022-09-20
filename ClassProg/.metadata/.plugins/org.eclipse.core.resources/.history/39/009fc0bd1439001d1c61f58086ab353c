@@ -1,0 +1,36 @@
+package ca.sheridancollege.controllers;
+
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.format.annotation.DateTimeFormat;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import ca.sheridancollege.beans.Student;
+
+@Controller
+public class MainController 
+{
+	@GetMapping("/")
+	public String goIndex()
+	{
+		return "index.html";
+		
+	}
+	
+	@PostMapping("/formPost")
+	public void formPost(HttpServletResponse response,
+						@RequestParam String firstName,
+						@RequestParam String lastName,
+						@RequestParam String email,
+						@RequestParam long studentNumber,
+						@RequestParam @DateTimeFormat(iso=DateTimeFormat.ISO.DATE) localDate birthDate)
+	{
+		Student student1 = new Student;
+		
+		
+	}
+	
+}

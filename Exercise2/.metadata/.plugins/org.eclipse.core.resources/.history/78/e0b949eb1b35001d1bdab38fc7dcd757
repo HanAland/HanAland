@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index Page</title>
+</head>
+<body>
+	<img src = "/images/Me.PNG" alt = "My picture" style = "width:128px; height:128px">
+	<h1>Hannah's Exercise 2</h1>
+	<h2>My legal name is Hyeyoung Park, but Please call me Hannah😊</h2>
+</body>
+</html>

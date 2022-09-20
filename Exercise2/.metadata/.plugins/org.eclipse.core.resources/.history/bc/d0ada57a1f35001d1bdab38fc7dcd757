@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index Page</title>
+</head>
+<body>
+	<img src = "/images/Me.PNG" alt = "My picture" style = "width:250px; height:340px">
+	<h1>Hannah's Exercise 2</h1>
+	<h2>My legal name is Hyeyoung Park, but Please call me Hannah😊</h2>
+	<h2>Here are links about me!</h2>
+	
+	<ul>
+		<li><a href="career">My career ambitions</a></li>   /**must match with MainController @GetMapping name.*/
+		<li><a href="hobby">My hobbies</a></li>
+		<li><a href="music">Music I like to listen to</a></li>
+	</ul>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hobby</title>
+</head>
+<body>
+	<h1>Here are my hobbies</h1>
+	<li>Extreme sports(skateboarding, surfing, paragliding)</li>
+	<li>Running🏃</li>
+	<li>Sleeping😴</li>
+	<li>Playing with my cat, Mimi🐈</li>
+	<li>Karaoke🎤</li>
+	<br>
+	<a href="/">Back to home</a>
+</body>
+</html>

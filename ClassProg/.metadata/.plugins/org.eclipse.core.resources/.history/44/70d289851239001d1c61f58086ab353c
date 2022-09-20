@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index</title>
+</head>
+<body>
+	<p>please fill out the form!</p>
+	<form method="post" action="/formPost">
+		First name:<input type="text" name="firstName">
+		Last name:<input type="text" name="lastName">
+
+	</form>
+</body>
+</html>
